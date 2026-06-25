@@ -1,0 +1,4 @@
+producto 1 = "caro"
+producto 2 = "medio"
+producto 3 = "barato"
+
